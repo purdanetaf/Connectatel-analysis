@@ -43,7 +43,7 @@ Los datos de uso cubren de enero a junio de 2024.
 1. Abre el archivo `Connectatel-analysis.ipynb` en GitHub
 2. Haz clic en 'Open in Colab'
 
-## 📘 Guía de reproducción
+## Guía de reproducción
 
 1. Abre el notebook en Google Colab.
 2. Sube los archivos `plans.csv`, `users_latam.csv` y `usage.csv` al entorno de Colab.
