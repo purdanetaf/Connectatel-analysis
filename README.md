@@ -19,9 +19,9 @@ Este repositorio contiene el análisis de datos de ConnectaTel, una empresa de t
 
 ## Datasets utilizados
 
-| `plans.csv` | Catálogo de planes (Basico y Premium): mensajes, minutos y GB incluidos, y precio mensual |
-| `users_latam.csv` | 4,000 usuarios: edad, ciudad, fecha de registro, plan y fecha de baja |
-| `usage.csv` | 40,000 registros de uso (llamadas y mensajes) con fecha, duración y longitud |
+`plans.csv`: Catálogo de planes (Basico y Premium): mensajes, minutos y GB incluidos, y precio mensual 
+`users_latam.csv`: 4,000 usuarios: edad, ciudad, fecha de registro, plan y fecha de baja 
+`usage.csv`: 40,000 registros de uso (llamadas y mensajes) con fecha, duración y longitud 
 
 Los datos de uso cubren de enero a junio de 2024.
 
